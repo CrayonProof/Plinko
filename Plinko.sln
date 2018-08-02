@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plinko", "Plinko\Plinko.vcxproj", "{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Debug|x64.ActiveCfg = Debug|x64
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Debug|x64.Build.0 = Debug|x64
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Debug|x86.ActiveCfg = Debug|Win32
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Debug|x86.Build.0 = Debug|Win32
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Release|x64.ActiveCfg = Release|x64
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Release|x64.Build.0 = Release|x64
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Release|x86.ActiveCfg = Release|Win32
+		{3660C15A-6C5F-4ED6-A1C6-FEB208CA6563}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4403E4F3-0864-40E2-8BDD-D3E9F6BA1174}
+	EndGlobalSection
+EndGlobal
