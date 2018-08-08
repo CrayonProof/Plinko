@@ -1,3 +1,3 @@
 ﻿  Plinko.cpp
-c:\users\micky\documents\visualstudio\plinko\plinko\plinko.cpp(70): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\micky\documents\visualstudio\plinko\plinko\plinko.cpp(85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   Plinko.vcxproj -> C:\Users\micky\Documents\VisualStudio\Plinko\Debug\Plinko.exe
