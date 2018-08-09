@@ -1,4 +1,4 @@
 ﻿  Plinko.cpp
-c:\users\micky\documents\visualstudio\plinko\plinko\plinko.cpp(136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\micky\documents\visualstudio\plinko\plinko\plinko.cpp(274): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\micky\documents\visualstudio\plinko\plinko\plinko.cpp(173): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\micky\documents\visualstudio\plinko\plinko\plinko.cpp(305): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
   Plinko.vcxproj -> C:\Users\micky\Documents\VisualStudio\Plinko\Debug\Plinko.exe
